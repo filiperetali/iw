@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "titulo": "Minha primeira nota",
+        "conteudo": "Esta é a minha primeira nota no GitHub."
+    },
+    {
+        "id": 2,
+        "titulo": "Outra nota",
+        "conteudo": "Esta é outra nota no GitHub."
+    }
+]
