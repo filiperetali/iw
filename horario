@@ -1,0 +1,10 @@
+[
+    { "dia": "Segunda", 
+      "horario": "08:00 - 10:00", 
+      "aula": "Matemática" 
+    },
+    { "dia": "Terça", "horario": "10:00 - 12:00", "aula": "História" },
+    { "dia": "Quarta", "horario": "14:00 - 16:00", "aula": "Inglês" },
+    { "dia": "Quinta", "horario": "09:00 - 11:00", "aula": "Ciências" },
+    { "dia": "Sexta", "horario": "11:00 - 13:00", "aula": "Educação Física" }
+]
