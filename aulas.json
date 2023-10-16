@@ -1,11 +1,11 @@
 [
     {
         "horario": "7:10 - 8:00",
-        "aulas": ["Matemática", "História", "Inglês", "Ciências", "Educação Física"]
+        "aulas": ["Matemática", "História", "Inglês", "Biologia", "Educação Física"]
     },
     {
         "horario": "8:00 - 8:50",
-        "aulas": ["Química", "Matemática", "Ciências", "Inglês", "Artes"]
+        "aulas": ["Química", "Matemática", "Física", "Português", "Artes"]
     },
     {
         "horario": "8:50 - 9:40",
@@ -17,14 +17,14 @@
     },
     {
         "horario": "10:00 - 10:50",
-        "aulas": ["Exemplo", "Exemplo", "Exemplo", "Exemplo", "Exemplo"]
+        "aulas": ["Biologia", "Química", "Matemática", "Português", "Educação Física"]
     },
     {
         "horario": "10:50 - 11:40",
-        "aulas": ["Exemplo", "Exemplo", "Exemplo", "Exemplo", "Exemplo"]
+        "aulas": ["Inglês", "Geografia", "Física", "História", "Artes"]
     },
     {
         "horario": "11:40 - 12:30",
-        "aulas": ["Exemplo", "Exemplo", "Exemplo", "Exemplo", "Exemplo"]
+        "aulas": ["Português", "Química", "Biologia", "Matemática", "Educação Física"]
     }
 ]
